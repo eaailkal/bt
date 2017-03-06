@@ -1394,6 +1394,12 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/_\/components\/php\/header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/header.php",
+		"oF": 0
+		},
 	"\/_\/css\/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
@@ -2818,11 +2824,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/misc\/ralogo_monogram.png": {
+	"\/img\/misc\/logo.png": {
 		"ft": 32768,
-		"iS": 11790,
+		"iS": 17092,
 		"oA": 0,
-		"oAP": "\/img\/misc\/ralogo_monogram.png",
+		"oAP": "\/img\/misc\/logo.png",
 		"oF": 0,
 		"opt": 0
 		},
