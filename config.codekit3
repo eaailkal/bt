@@ -1394,6 +1394,24 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/_\/components\/php\/article-aboutthevenue.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-aboutthevenue.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/article-faculty.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-faculty.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/article-intro.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-intro.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/footer.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1404,6 +1422,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_\/components\/php\/header.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet-carousel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet-carousel.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet-facultyphotogrid.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet-facultyphotogrid.php",
 		"oF": 0
 		},
 	"\/_\/css\/bootstrap.css": {
@@ -1666,11 +1696,11 @@
 		},
 	"\/img\/artists\/Riley_Rewington_tn.jpg": {
 		"ft": 16384,
-		"iS": 12087,
+		"iS": 21136,
 		"oA": 0,
 		"oAP": "\/img\/artists\/Riley_Rewington_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/artists\/Xhou_Ta.jpg": {
 		"ft": 16384,
@@ -2768,14 +2798,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/hotels\/contempo.jpg": {
-		"ft": 16384,
-		"iS": 15118,
-		"oA": 0,
-		"oAP": "\/img\/hotels\/contempo.jpg",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/img\/hotels\/gwendoline.jpg": {
 		"ft": 16384,
 		"iS": 9196,
@@ -2807,6 +2829,14 @@
 		"oAP": "\/img\/hotels\/rage.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/img\/hotels\/tata.jpg": {
+		"ft": 16384,
+		"iS": 558412,
+		"oA": 0,
+		"oAP": "\/img\/hotels\/tata.jpg",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/img\/misc\/background_buildings.png": {
 		"ft": 32768,

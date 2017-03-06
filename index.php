@@ -13,11 +13,12 @@
 
     <section class="container">
       <div class="content row">
-
+      <?php include "_/components/php/header.php"; ?>
+      <?php include "_/components/php/snippet-carousel.php"; ?>
         <section class="main col col-lg-8">
-
-          <?php include "_/components/php/header.php"; ?>
-          
+          <?php include "_/components/php/article-intro.php"; ?>
+          <?php include "_/components/php/article-faculty.php"; ?>
+          <?php include "_/components/php/article-aboutthevenue.php"; ?>
         </section><!-- main -->
 
         <section class="sidebar col col-lg-8">
@@ -27,7 +28,7 @@
       </div><!-- content -->
 
     <?php include "_/components/php/footer.php"; ?>
-    
+
     </section><!-- container -->
 
     <script src="_/js/bootstrap.js"></script>
