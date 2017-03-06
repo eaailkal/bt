@@ -1478,10 +1478,1472 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/conference.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/conference.php",
+		"oF": 0
+		},
+	"\/contact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.php",
+		"oF": 0
+		},
+	"\/img\/artists\/Barot_Bellingham.jpg": {
+		"ft": 16384,
+		"iS": 264169,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Barot_Bellingham.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Barot_Bellingham_tn.jpg": {
+		"ft": 16384,
+		"iS": 12755,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Barot_Bellingham_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Constance_Smith.jpg": {
+		"ft": 16384,
+		"iS": 478316,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Constance_Smith.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Constance_Smith_tn.jpg": {
+		"ft": 16384,
+		"iS": 12795,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Constance_Smith_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Gerard_Donahue.jpg": {
+		"ft": 16384,
+		"iS": 137990,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Gerard_Donahue.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Gerard_Donahue_tn.jpg": {
+		"ft": 16384,
+		"iS": 10219,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Gerard_Donahue_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Hassum_Harrod.jpg": {
+		"ft": 16384,
+		"iS": 250679,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Hassum_Harrod.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Hassum_Harrod_tn.jpg": {
+		"ft": 16384,
+		"iS": 11356,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Hassum_Harrod_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Hillary_Goldwynn.jpg": {
+		"ft": 16384,
+		"iS": 219497,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Hillary_Goldwynn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Hillary_Goldwynn_tn.jpg": {
+		"ft": 16384,
+		"iS": 11051,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Hillary_Goldwynn_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Jennifer_Jerome.jpg": {
+		"ft": 16384,
+		"iS": 320832,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Jennifer_Jerome.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Jennifer_Jerome_tn.jpg": {
+		"ft": 16384,
+		"iS": 15361,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Jennifer_Jerome_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Jonathan_Ferrar.jpg": {
+		"ft": 16384,
+		"iS": 276935,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Jonathan_Ferrar.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Jonathan_Ferrar_tn.jpg": {
+		"ft": 16384,
+		"iS": 13319,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Jonathan_Ferrar_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/LaVonne_LaRue.jpg": {
+		"ft": 16384,
+		"iS": 319324,
+		"oA": 0,
+		"oAP": "\/img\/artists\/LaVonne_LaRue.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/LaVonne_LaRue_tn.jpg": {
+		"ft": 16384,
+		"iS": 12469,
+		"oA": 0,
+		"oAP": "\/img\/artists\/LaVonne_LaRue_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Lorenzo_Garcia.jpg": {
+		"ft": 16384,
+		"iS": 183425,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Lorenzo_Garcia.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Lorenzo_Garcia_tn.jpg": {
+		"ft": 16384,
+		"iS": 11569,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Lorenzo_Garcia_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Richard_Tweed.jpg": {
+		"ft": 16384,
+		"iS": 212883,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Richard_Tweed.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Richard_Tweed_tn.jpg": {
+		"ft": 16384,
+		"iS": 11870,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Richard_Tweed_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Riley_Rewington.jpg": {
+		"ft": 16384,
+		"iS": 197556,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Riley_Rewington.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Riley_Rewington_tn.jpg": {
+		"ft": 16384,
+		"iS": 12087,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Riley_Rewington_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Xhou_Ta.jpg": {
+		"ft": 16384,
+		"iS": 244794,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Xhou_Ta.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artists\/Xhou_Ta_tn.jpg": {
+		"ft": 16384,
+		"iS": 13120,
+		"oA": 0,
+		"oAP": "\/img\/artists\/Xhou_Ta_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_01.jpg": {
+		"ft": 16384,
+		"iS": 464995,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 15123,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_02.jpg": {
+		"ft": 16384,
+		"iS": 511084,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 19031,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_03.jpg": {
+		"ft": 16384,
+		"iS": 609528,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 13737,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_04.jpg": {
+		"ft": 16384,
+		"iS": 542620,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 14042,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_05.jpg": {
+		"ft": 16384,
+		"iS": 418816,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 14314,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_06.jpg": {
+		"ft": 16384,
+		"iS": 460358,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_06_tn.jpg": {
+		"ft": 16384,
+		"iS": 15933,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_06_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_07.jpg": {
+		"ft": 16384,
+		"iS": 629016,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_07.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Barot_Bellingham_07_tn.jpg": {
+		"ft": 16384,
+		"iS": 15053,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Barot_Bellingham_07_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_01.jpg": {
+		"ft": 16384,
+		"iS": 541062,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 15647,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_02.jpg": {
+		"ft": 16384,
+		"iS": 371109,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 13820,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_03.jpg": {
+		"ft": 16384,
+		"iS": 455437,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 17166,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_04.jpg": {
+		"ft": 16384,
+		"iS": 126385,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 10944,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_05.jpg": {
+		"ft": 16384,
+		"iS": 350857,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Constance_Smith_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 10490,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Constance_Smith_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_01.jpg": {
+		"ft": 16384,
+		"iS": 240221,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 10920,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_02.jpg": {
+		"ft": 16384,
+		"iS": 254498,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 10737,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_03.jpg": {
+		"ft": 16384,
+		"iS": 233601,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 10214,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_04.jpg": {
+		"ft": 16384,
+		"iS": 103698,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Gerard_Donahue_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 7863,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Gerard_Donahue_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_01.jpg": {
+		"ft": 16384,
+		"iS": 475913,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 15739,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_02.jpg": {
+		"ft": 16384,
+		"iS": 582158,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 15105,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_03.jpg": {
+		"ft": 16384,
+		"iS": 879390,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 20820,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_04.jpg": {
+		"ft": 16384,
+		"iS": 583757,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 15459,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_05.jpg": {
+		"ft": 16384,
+		"iS": 617208,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 15069,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_06.jpg": {
+		"ft": 16384,
+		"iS": 572286,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hassum_Harrod_06_tn.jpg": {
+		"ft": 16384,
+		"iS": 14758,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hassum_Harrod_06_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_01.jpg": {
+		"ft": 16384,
+		"iS": 525349,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 16616,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_02.jpg": {
+		"ft": 16384,
+		"iS": 482698,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 13411,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_03.jpg": {
+		"ft": 16384,
+		"iS": 75795,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 6362,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_04.jpg": {
+		"ft": 16384,
+		"iS": 167804,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 8095,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_05.jpg": {
+		"ft": 16384,
+		"iS": 638756,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 13659,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_06.jpg": {
+		"ft": 16384,
+		"iS": 493369,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_06_tn.jpg": {
+		"ft": 16384,
+		"iS": 19695,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_06_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_07.jpg": {
+		"ft": 16384,
+		"iS": 401444,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_07.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Hillary_Goldwynn_07_tn.jpg": {
+		"ft": 16384,
+		"iS": 18750,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Hillary_Goldwynn_07_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_01.jpg": {
+		"ft": 16384,
+		"iS": 524309,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 16073,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_02.jpg": {
+		"ft": 16384,
+		"iS": 490200,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 14691,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_03.jpg": {
+		"ft": 16384,
+		"iS": 557499,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 17066,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_04.jpg": {
+		"ft": 16384,
+		"iS": 632063,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jennifer_Jerome_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 15275,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jennifer_Jerome_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jonathan_Ferrar_01.jpg": {
+		"ft": 16384,
+		"iS": 590728,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jonathan_Ferrar_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jonathan_Ferrar_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 14953,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jonathan_Ferrar_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jonathan_Ferrar_02.jpg": {
+		"ft": 16384,
+		"iS": 343202,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jonathan_Ferrar_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jonathan_Ferrar_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 13451,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jonathan_Ferrar_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jonathan_Ferrar_03.jpg": {
+		"ft": 16384,
+		"iS": 644189,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jonathan_Ferrar_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Jonathan_Ferrar_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 12690,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Jonathan_Ferrar_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_01.jpg": {
+		"ft": 16384,
+		"iS": 559601,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 16472,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_02.jpg": {
+		"ft": 16384,
+		"iS": 624474,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 21554,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_03.jpg": {
+		"ft": 16384,
+		"iS": 456124,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 17117,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_04.jpg": {
+		"ft": 16384,
+		"iS": 367482,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 16680,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_05.jpg": {
+		"ft": 16384,
+		"iS": 371582,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/LaVonne_LaRue_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 16982,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/LaVonne_LaRue_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_01.jpg": {
+		"ft": 16384,
+		"iS": 289768,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 14865,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_02.jpg": {
+		"ft": 16384,
+		"iS": 184041,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 12973,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_03.jpg": {
+		"ft": 16384,
+		"iS": 235834,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 15062,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_04.jpg": {
+		"ft": 16384,
+		"iS": 157364,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Lorenzo_Garcia_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 10770,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Lorenzo_Garcia_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_01.jpg": {
+		"ft": 16384,
+		"iS": 354609,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 12786,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_02.jpg": {
+		"ft": 16384,
+		"iS": 333095,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 12349,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_03.jpg": {
+		"ft": 16384,
+		"iS": 737935,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 12534,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_04.jpg": {
+		"ft": 16384,
+		"iS": 570532,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 13597,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_05.jpg": {
+		"ft": 16384,
+		"iS": 520636,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 11567,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_06.jpg": {
+		"ft": 16384,
+		"iS": 523758,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Richard_Tweed_06_tn.jpg": {
+		"ft": 16384,
+		"iS": 13143,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Richard_Tweed_06_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_01.jpg": {
+		"ft": 16384,
+		"iS": 419623,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 10271,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_02.jpg": {
+		"ft": 16384,
+		"iS": 587658,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 20527,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_03.jpg": {
+		"ft": 16384,
+		"iS": 430050,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 14467,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_04.jpg": {
+		"ft": 16384,
+		"iS": 397439,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 16542,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_05.jpg": {
+		"ft": 16384,
+		"iS": 482765,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_05_tn.jpg": {
+		"ft": 16384,
+		"iS": 16107,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_05_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_06.jpg": {
+		"ft": 16384,
+		"iS": 584594,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Riley_Rewington_06_tn.jpg": {
+		"ft": 16384,
+		"iS": 17916,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Riley_Rewington_06_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_01.jpg": {
+		"ft": 16384,
+		"iS": 470684,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_01_tn.jpg": {
+		"ft": 16384,
+		"iS": 14900,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_01_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_02.jpg": {
+		"ft": 16384,
+		"iS": 569860,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_02.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_02_tn.jpg": {
+		"ft": 16384,
+		"iS": 14586,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_02_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_03.jpg": {
+		"ft": 16384,
+		"iS": 452738,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_03.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_03_tn.jpg": {
+		"ft": 16384,
+		"iS": 13488,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_03_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_04.jpg": {
+		"ft": 16384,
+		"iS": 391964,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/artwork\/Xhou_Ta_04_tn.jpg": {
+		"ft": 16384,
+		"iS": 14700,
+		"oA": 0,
+		"oAP": "\/img\/artwork\/Xhou_Ta_04_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/acrilycs_workshop.jpg": {
+		"ft": 16384,
+		"iS": 100189,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/acrilycs_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/interior_decor_workshop.jpg": {
+		"ft": 16384,
+		"iS": 169939,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/interior_decor_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/jewelry_workshop.jpg": {
+		"ft": 16384,
+		"iS": 215470,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/jewelry_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/letterpress_studio.jpg": {
+		"ft": 16384,
+		"iS": 233494,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/letterpress_studio.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/metal_engraving_workshop.jpg": {
+		"ft": 16384,
+		"iS": 186347,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/metal_engraving_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/painting_workshop.jpg": {
+		"ft": 16384,
+		"iS": 180310,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/painting_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/pencil_sketching_workshop.jpg": {
+		"ft": 16384,
+		"iS": 130116,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/pencil_sketching_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/pottery_finished.jpg": {
+		"ft": 16384,
+		"iS": 175452,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/pottery_finished.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/pottery_workshop.jpg": {
+		"ft": 16384,
+		"iS": 88254,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/pottery_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/quicksketch_workshop.jpg": {
+		"ft": 16384,
+		"iS": 117461,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/quicksketch_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/seattle_skyline.jpg": {
+		"ft": 16384,
+		"iS": 192231,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/seattle_skyline.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/weaving_workshop.jpg": {
+		"ft": 16384,
+		"iS": 296520,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/weaving_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/woodworking_workshop.jpg": {
+		"ft": 16384,
+		"iS": 136211,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/woodworking_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/hotels\/contempo.jpg": {
+		"ft": 16384,
+		"iS": 15118,
+		"oA": 0,
+		"oAP": "\/img\/hotels\/contempo.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/hotels\/gwendoline.jpg": {
+		"ft": 16384,
+		"iS": 9196,
+		"oA": 0,
+		"oAP": "\/img\/hotels\/gwendoline.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/hotels\/otter.jpg": {
+		"ft": 16384,
+		"iS": 9932,
+		"oA": 0,
+		"oAP": "\/img\/hotels\/otter.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/hotels\/phillips.jpg": {
+		"ft": 16384,
+		"iS": 8834,
+		"oA": 0,
+		"oAP": "\/img\/hotels\/phillips.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/hotels\/rage.jpg": {
+		"ft": 16384,
+		"iS": 10829,
+		"oA": 0,
+		"oAP": "\/img\/hotels\/rage.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/misc\/background_buildings.png": {
+		"ft": 32768,
+		"iS": 25269,
+		"oA": 0,
+		"oAP": "\/img\/misc\/background_buildings.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/misc\/iphone_roux.png": {
+		"ft": 32768,
+		"iS": 168038,
+		"oA": 0,
+		"oAP": "\/img\/misc\/iphone_roux.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/misc\/ralogo_monogram.png": {
+		"ft": 32768,
+		"iS": 11790,
+		"oA": 0,
+		"oAP": "\/img\/misc\/ralogo_monogram.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/artist_on_table.jpg": {
+		"ft": 16384,
+		"iS": 323127,
+		"oA": 0,
+		"oAP": "\/img\/slides\/artist_on_table.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/artist_on_table_tn.jpg": {
+		"ft": 16384,
+		"iS": 12803,
+		"oA": 0,
+		"oAP": "\/img\/slides\/artist_on_table_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/at_the_museum.jpg": {
+		"ft": 16384,
+		"iS": 273140,
+		"oA": 0,
+		"oAP": "\/img\/slides\/at_the_museum.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/at_the_museum_tn.jpg": {
+		"ft": 16384,
+		"iS": 12107,
+		"oA": 0,
+		"oAP": "\/img\/slides\/at_the_museum_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/charcoal_artist_painting.jpg": {
+		"ft": 16384,
+		"iS": 342749,
+		"oA": 0,
+		"oAP": "\/img\/slides\/charcoal_artist_painting.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/charcoal_artist_painting_tn.jpg": {
+		"ft": 16384,
+		"iS": 13608,
+		"oA": 0,
+		"oAP": "\/img\/slides\/charcoal_artist_painting_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/framing_workshop.jpg": {
+		"ft": 16384,
+		"iS": 222506,
+		"oA": 0,
+		"oAP": "\/img\/slides\/framing_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/framing_workshop_tn.jpg": {
+		"ft": 16384,
+		"iS": 11909,
+		"oA": 0,
+		"oAP": "\/img\/slides\/framing_workshop_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/glassmaking_workshop.jpg": {
+		"ft": 16384,
+		"iS": 196656,
+		"oA": 0,
+		"oAP": "\/img\/slides\/glassmaking_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/glassmaking_workshop_tn.jpg": {
+		"ft": 16384,
+		"iS": 13907,
+		"oA": 0,
+		"oAP": "\/img\/slides\/glassmaking_workshop_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/glassworking_workshop.jpg": {
+		"ft": 16384,
+		"iS": 161588,
+		"oA": 0,
+		"oAP": "\/img\/slides\/glassworking_workshop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/slides\/glassworking_workshop_tn.jpg": {
+		"ft": 16384,
+		"iS": 10422,
+		"oA": 0,
+		"oAP": "\/img\/slides\/glassworking_workshop_tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/program.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/program.php",
+		"oF": 0
+		},
+	"\/registration.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/registration.php",
+		"oF": 0
+		},
+	"\/venue.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/venue.php",
 		"oF": 0
 		}
 	},
