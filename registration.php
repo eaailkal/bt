@@ -15,7 +15,9 @@
       <div class="content row">
 
         <section class="main col col-lg-8">
-          <h2>Main</h2>
+
+          <?php include "_/components/php/header.php"; ?>
+          
         </section><!-- main -->
 
         <section class="sidebar col col-lg-8">
@@ -23,6 +25,9 @@
         </section><!-- sidebar -->
 
       </div><!-- content -->
+
+    <?php include "_/components/php/footer.php"; ?>
+    
     </section><!-- container -->
 
     <script src="_/js/bootstrap.js"></script>
