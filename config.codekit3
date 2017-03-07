@@ -1430,6 +1430,18 @@
 		"oAP": "\/_\/components\/php\/article-program.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-registrationform.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-registrationform.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/article-registrationform2.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-registrationform2.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-venues.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -3138,6 +3150,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/registration.php",
+		"oF": 0
+		},
+	"\/registration2.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/registration2.php",
 		"oF": 0
 		},
 	"\/venue.php": {
