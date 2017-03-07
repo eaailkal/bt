@@ -1,6 +1,6 @@
 <article class="registrationform">
 	<h2>Registration form</h2>
-	<p class="bg-info">If you already have registered before and if not have done the payments yet, please login with your username(Email Id) and password to make the the payments and have access to your profile page where you can submit your abstracts.</p>
+	<p class="bg-info">If you already have registered before and if not have done the payments yet, please login with your username(email id) and password to make the the payments and have access to your profile page where you can submit your abstracts.</p>
 
 	<form class="registration form-horizontal" action="#">
   <fieldset>
@@ -14,10 +14,7 @@
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
     <div class="col-sm-9">
-      <div class="input-group">
-      <span class="input-group-addon">@</span>
       <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
-      </div>
     </div>
   </div>
   <div class="form-group">
