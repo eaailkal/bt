@@ -9,20 +9,19 @@
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
   </head>
-  <body id="venue">
+  <body id="faculty" data-spy="scroll" data-target=".scrollspy">
 
     <section class="container">
       <div class="content row">
       <?php include "_/components/php/header.php"; ?>
       <?php include "_/components/php/snippet-carousel.php"; ?>
         <section class="main col col-lg-8">
-          <?php include "_/components/php/article-venues.php"; ?>
+          <?php include "_/components/php/article-faculty-list.php"; ?>
         </section><!-- main -->
 
         <section class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-register.php"; ?>
           <?php include "_/components/php/aside-lastyear.php"; ?>
-          <?php include "_/components/php/aside-faculty.php"; ?>
           <?php include "_/components/php/aside-program.php"; ?>
         </section><!-- sidebar -->
 

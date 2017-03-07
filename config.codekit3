@@ -1400,6 +1400,12 @@
 		"oAP": "\/_\/components\/php\/article-aboutthevenue.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-faculty-list.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-faculty-list.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-faculty.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1424,10 +1430,10 @@
 		"oAP": "\/_\/components\/php\/article-venues.php",
 		"oF": 0
 		},
-	"\/_\/components\/php\/aside-abouttheartists.php": {
+	"\/_\/components\/php\/aside-faculty.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_\/components\/php\/aside-abouttheartists.php",
+		"oAP": "\/_\/components\/php\/aside-faculty.php",
 		"oF": 0
 		},
 	"\/_\/components\/php\/aside-lastyear.php": {
@@ -1478,10 +1484,40 @@
 		"oAP": "\/_\/components\/php\/snippet-facultyphotogrid.php",
 		"oF": 0
 		},
-	"\/_\/components\/php\/snippet_schedule_friday.php": {
+	"\/_\/components\/php\/snippet_faculty_Barot_Bellingham.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_\/components\/php\/snippet_schedule_friday.php",
+		"oAP": "\/_\/components\/php\/snippet_faculty_Barot_Bellingham.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_faculty_Constance_Smith.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_faculty_Constance_Smith.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_faculty_Gerard_Donahue.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_faculty_Gerard_Donahue.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_faculty_Hillary_Goldwynn.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_faculty_Hillary_Goldwynn.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_faculty_Jonathan_Ferrar.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_faculty_Jonathan_Ferrar.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_faculty_Riley_Rewington.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_faculty_Riley_Rewington.php",
 		"oF": 0
 		},
 	"\/_\/components\/php\/snippet_schedule_saturday.php": {
@@ -1494,18 +1530,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_\/components\/php\/snippet_schedule_sunday.php",
-		"oF": 0
-		},
-	"\/_\/components\/php\/snippet_schedule_thursday.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_\/components\/php\/snippet_schedule_thursday.php",
-		"oF": 0
-		},
-	"\/_\/components\/php\/snippet_schedule_wednesday.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_\/components\/php\/snippet_schedule_wednesday.php",
 		"oF": 0
 		},
 	"\/_\/css\/bootstrap.css": {
@@ -1596,6 +1620,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/contact.php",
+		"oF": 0
+		},
+	"\/faculty.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/faculty.php",
 		"oF": 0
 		},
 	"\/img\/artists\/Barot_Bellingham.jpg": {
@@ -2806,6 +2836,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/carousel\/mumbai_skyline.jpg": {
+		"ft": 16384,
+		"iS": 192119,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/mumbai_skyline.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/img\/carousel\/painting_workshop.jpg": {
 		"ft": 16384,
 		"iS": 180310,
@@ -2843,14 +2881,6 @@
 		"iS": 117461,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/quicksketch_workshop.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/carousel\/seattle_skyline.jpg": {
-		"ft": 16384,
-		"iS": 192231,
-		"oA": 0,
-		"oAP": "\/img\/carousel\/seattle_skyline.jpg",
 		"oF": 0,
 		"opt": 0
 		},

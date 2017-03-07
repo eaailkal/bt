@@ -9,7 +9,7 @@
 	</ol><!-- carousel-indicators -->
 
 	<section class="carousel-inner">
-		<div class="active item"><img src="img/carousel/seattle_skyline.jpg" alt="Photo of Seattle Skyline"></div>
+		<div class="active item"><img src="img/carousel/mumbai_skyline.jpg" alt="Photo of Mumbai"></div>
 		<div class="item"><img src="img/carousel/jewelry_workshop.jpg" alt="Photo of jewelry_workshop"></div>
 		<div class="item"><img src="img/carousel/painting_workshop.jpg" alt="Photo of painting_workshop"></div>
 		<div class="item"><img src="img/carousel/pottery_workshop.jpg" alt="Photo of pottery_workshop"></div>
