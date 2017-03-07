@@ -8,6 +8,12 @@
 	  	</div>
 	</article>
 
+	<article class="media">
+	  	<div class="media-body">
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.4675582298073!2d72.83820484985486!3d18.999107959260336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7cee45b3f61f5%3A0x8cc1d55e5001d8b7!2sTATA+MEMORIAL+HOSPITAL!5e0!3m2!1sen!2sin!4v1488873278805" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	  	</div>
+	</article>
+
 	<h2>Accomodation</h2>
 
 	<article class="media">

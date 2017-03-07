@@ -1400,6 +1400,12 @@
 		"oAP": "\/_\/components\/php\/article-aboutthevenue.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-contact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-contact.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-faculty-list.php": {
 		"ft": 8192,
 		"oA": 2,
