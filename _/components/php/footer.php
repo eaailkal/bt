@@ -1,7 +1,7 @@
 <section class="container">
 	<footer class="row">
 
-        <div class="col-sm-3">
+        <div class="col-sm-2">
           <img src="img/misc/logo.png" class="img-responsive" alt="Logo for Tyacon 2017">
         </div>
         
@@ -28,7 +28,7 @@
             <li><a href="#">Contact</a></li>
           </ul>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-4">
           <address>
             <strong>Organizing Secretary</strong>
             Dr. Tushar Vora <br>
