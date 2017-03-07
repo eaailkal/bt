@@ -1,0 +1,117 @@
+
+//      --- Material design palette ---
+
+@darkPrimaryColor:   #D32F2F;
+@primaryColor:       #F44336;
+@lightPrimaryColor:  #FFCDD2;
+@textPrimaryColor:   #FFFFFF;
+@accentColor:        #8BC34A;
+@primaryTextColor:   #212121;
+@secondaryTextColor: #757575;
+@dividerColor:       #BDBDBD;
+
+
+@beige: 			#FDF5E3;
+
+//      --- My fonts
+
+@headlineFontFamily:		Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+@copyFontFamily:			Lora, Georgia, "Times New Roman", Times, serif;
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: @headlineFontFamily;
+	color: @primaryTextColor;
+}
+
+body {
+	background: transparent; // @purple url(../../images/misc/background_buildings.png);
+	margin-top: 30px;
+}
+
+p {
+	font-family: @copyFontFamily;
+	font-size: 1.1em;
+	line-height: 1.4em;
+	color: @secondaryTextColor;
+	padding: 0 2%;
+}
+
+.container {
+	background: @textPrimaryColor;
+}
+
+.main {
+	background: @textPrimaryColor;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.carousel {
+	margin-bottom: 0;
+}
+
+.main>article {
+	margin: 0 5%;
+}
+
+.sidebar>aside {
+	padding-right: 5%;
+
+	@media(max-width: 767px) {
+		padding-left: 5%;
+	}
+}
+
+aside {
+	h2 {
+		font-size: 1.8em;
+		color: @primaryColor;
+		border-bottom: 1px dotted @accentColor;
+	}
+}
+
+.navbar {
+	border-right: none;
+	border-left: none;
+	border-radius: 0;
+}
+
+#branding {
+	img {
+		margin: 10px 0 5px 25px;
+		max-width: 450px;
+			@media(max-width: 767px) {
+				margin: 10px 0 5px 10px;
+				width: 90%;
+			}
+	}
+}
+
+.accordion-heading {
+	background: @accentColor;
+	a {
+		color: white;
+	}
+}
+
+.aboutthevenues {
+	article {
+		margin: 0;
+		padding: 0;
+	}
+
+	h2 {
+		padding: 0;
+		padding-bottom: 0;
+		border-bottom: 1px dotted @primaryTextColor;
+	}
+
+	h3 {
+		color: @primaryColor;
+		padding: 0;
+		margin: 0;
+		font-size: 1.5em;
+	}
+}
