@@ -1418,6 +1418,12 @@
 		"oAP": "\/_\/components\/php\/article-intro.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-partners.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-partners.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-program.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -2964,6 +2970,62 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/partners\/6dlogo.gif": {
+		"ft": 4194304,
+		"iS": 6573,
+		"oA": 0,
+		"oAP": "\/img\/partners\/6dlogo.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/bike.gif": {
+		"ft": 4194304,
+		"iS": 6546,
+		"oA": 0,
+		"oAP": "\/img\/partners\/bike.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/c-care.gif": {
+		"ft": 4194304,
+		"iS": 10802,
+		"oA": 0,
+		"oAP": "\/img\/partners\/c-care.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/cankids-kidscan.gif": {
+		"ft": 4194304,
+		"iS": 7057,
+		"oA": 0,
+		"oAP": "\/img\/partners\/cankids-kidscan.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/MPO.gif": {
+		"ft": 4194304,
+		"iS": 7837,
+		"oA": 0,
+		"oAP": "\/img\/partners\/MPO.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/SAIMS.gif": {
+		"ft": 4194304,
+		"iS": 6557,
+		"oA": 0,
+		"oAP": "\/img\/partners\/SAIMS.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/victores-childhood-cancer.gif": {
+		"ft": 4194304,
+		"iS": 7063,
+		"oA": 0,
+		"oAP": "\/img\/partners\/victores-childhood-cancer.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/slides\/artist_on_table.jpg": {
 		"ft": 16384,
 		"iS": 323127,
@@ -2974,11 +3036,11 @@
 		},
 	"\/img\/slides\/artist_on_table_tn.jpg": {
 		"ft": 16384,
-		"iS": 12803,
+		"iS": 87232,
 		"oA": 0,
 		"oAP": "\/img\/slides\/artist_on_table_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/slides\/at_the_museum.jpg": {
 		"ft": 16384,
@@ -2990,7 +3052,7 @@
 		},
 	"\/img\/slides\/at_the_museum_tn.jpg": {
 		"ft": 16384,
-		"iS": 12107,
+		"iS": 37221,
 		"oA": 0,
 		"oAP": "\/img\/slides\/at_the_museum_tn.jpg",
 		"oF": 0,
@@ -3006,11 +3068,11 @@
 		},
 	"\/img\/slides\/charcoal_artist_painting_tn.jpg": {
 		"ft": 16384,
-		"iS": 13608,
+		"iS": 35027,
 		"oA": 0,
 		"oAP": "\/img\/slides\/charcoal_artist_painting_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/slides\/framing_workshop.jpg": {
 		"ft": 16384,
@@ -3022,11 +3084,11 @@
 		},
 	"\/img\/slides\/framing_workshop_tn.jpg": {
 		"ft": 16384,
-		"iS": 11909,
+		"iS": 147645,
 		"oA": 0,
 		"oAP": "\/img\/slides\/framing_workshop_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/slides\/glassmaking_workshop.jpg": {
 		"ft": 16384,
@@ -3038,11 +3100,11 @@
 		},
 	"\/img\/slides\/glassmaking_workshop_tn.jpg": {
 		"ft": 16384,
-		"iS": 13907,
+		"iS": 244937,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassmaking_workshop_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/slides\/glassworking_workshop.jpg": {
 		"ft": 16384,
@@ -3054,11 +3116,11 @@
 		},
 	"\/img\/slides\/glassworking_workshop_tn.jpg": {
 		"ft": 16384,
-		"iS": 10422,
+		"iS": 838336,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassworking_workshop_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/index.php": {
 		"ft": 8192,

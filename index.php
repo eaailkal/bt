@@ -19,6 +19,7 @@
           <?php include "_/components/php/article-intro.php"; ?>
           <?php include "_/components/php/article-faculty.php"; ?>
           <?php include "_/components/php/article-aboutthevenue.php"; ?>
+          <?php include "_/components/php/article-partners.php"; ?>
         </section><!-- main -->
 
         <section class="sidebar col col-lg-4">
