@@ -1,21 +1,6 @@
 <section class="container">
 	<footer class="row">
-		<nav class="col-lg-12">
-			<ul class="breadcrumb">
-				<li><a href="contact.php">Contact us</a></li>
-				<li><a href="privacypolicy.php">Privacy Policy</a></li>
-				<li><a href="sitemap.php">Site map</a></li>
-			</ul><!-- breadcrumb -->
-		</nav><!-- nav -->
-	</footer><!-- footer -->
-</section><!-- container -->
 
-
-
-
-    <!-- Footer -->
-    <footer>
-      <div class="container">
         <div class="col-sm-3">
           <img src="img/misc/logo.png" class="img-responsive" alt="Logo for Tyacon 2017">
         </div>
@@ -53,6 +38,16 @@
             <abbr title="Email">E:</abbr> <a href="mailto:tusharsvora@yahoo.com">tusharsvora@yahoo.com</a>
           </address>
         </div>
-      </div>
-    </footer>
-    <!-- Footer end -->
+
+		<!-- <nav class="col-lg-12">
+			<ul class="breadcrumb">
+				<li><a href="contact.php">Contact us</a></li>
+				<li><a href="privacypolicy.php">Privacy Policy</a></li>
+				<li><a href="sitemap.php">Site map</a></li>
+			</ul>
+		</nav> -->
+	</footer><!-- footer -->
+</section><!-- container -->
+
+
+
