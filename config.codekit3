@@ -1412,6 +1412,12 @@
 		"oAP": "\/_\/components\/php\/article-intro.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-program.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-program.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-venues.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1424,16 +1430,16 @@
 		"oAP": "\/_\/components\/php\/aside-abouttheartists.php",
 		"oF": 0
 		},
-	"\/_\/components\/php\/aside-accordion.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_\/components\/php\/aside-accordion.php",
-		"oF": 0
-		},
 	"\/_\/components\/php\/aside-lastyear.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_\/components\/php\/aside-lastyear.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/aside-program.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-program.php",
 		"oF": 0
 		},
 	"\/_\/components\/php\/aside-register.php": {
@@ -1454,6 +1460,12 @@
 		"oAP": "\/_\/components\/php\/header.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/snippet-artistphotogrid.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet-artistphotogrid.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/snippet-carousel.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1464,6 +1476,36 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_\/components\/php\/snippet-facultyphotogrid.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_schedule_friday.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_schedule_friday.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_schedule_saturday.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_schedule_saturday.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_schedule_sunday.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_schedule_sunday.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_schedule_thursday.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_schedule_thursday.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet_schedule_wednesday.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet_schedule_wednesday.php",
 		"oF": 0
 		},
 	"\/_\/css\/bootstrap.css": {

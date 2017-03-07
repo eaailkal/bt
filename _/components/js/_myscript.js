@@ -1,5 +1,9 @@
 $(function() {
 
+	//activate program tabs
+	var hash = window.location.hash;
+	hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+
 	//highlight the current nav
 	$("#home a:contains('Home')").parent().addClass('active');
 	$("#registration a:contains('Registration')").parent().addClass('active');

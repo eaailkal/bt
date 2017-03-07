@@ -23,7 +23,7 @@
           <?php include "_/components/php/aside-register.php"; ?>
           <?php include "_/components/php/aside-lastyear.php"; ?>
           <?php include "_/components/php/aside-abouttheartists.php"; ?>
-          <?php include "_/components/php/aside-accordion.php"; ?>
+          <?php include "_/components/php/aside-program.php"; ?>
         </section><!-- sidebar -->
 
       </div><!-- content -->
