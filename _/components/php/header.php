@@ -5,7 +5,7 @@
 				<a href="index.php"><img src="img/misc/logo.png" alt="Logo for Tyacon 2017"></a>
 			</section><!-- branding -->
 
-			<section class="navbar">
+			<section class="navbar navbar-default">
 			<ul class="nav navbar-nav">
 			<li><a href="index.php">Home</a></li>
 				<!-- drop down menu -->
