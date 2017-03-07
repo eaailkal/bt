@@ -18,7 +18,7 @@
 
         </section><!-- main -->
 
-        <section class="sidebar col col-lg-8">
+        <section class="sidebar col col-lg-4">
 
         </section><!-- sidebar -->
 

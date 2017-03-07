@@ -1412,6 +1412,36 @@
 		"oAP": "\/_\/components\/php\/article-intro.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-venues.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-venues.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/aside-abouttheartists.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-abouttheartists.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/aside-accordion.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-accordion.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/aside-lastyear.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-lastyear.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/aside-register.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-register.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/footer.php": {
 		"ft": 8192,
 		"oA": 2,
