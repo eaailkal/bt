@@ -1454,6 +1454,12 @@
 		"oAP": "\/_\/components\/php\/article-venues.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/aside-attractions.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-attractions.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/aside-faculty.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1494,6 +1500,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_\/components\/php\/snippet-artistphotogrid.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/snippet-attractionsgrid.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/snippet-attractionsgrid.php",
 		"oF": 0
 		},
 	"\/_\/components\/php\/snippet-carousel.php": {
@@ -2819,6 +2831,38 @@
 		"oAP": "\/img\/artwork\/Xhou_Ta_04_tn.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/img\/attractions\/court_tn.jpg": {
+		"ft": 16384,
+		"iS": 313887,
+		"oA": 0,
+		"oAP": "\/img\/attractions\/court_tn.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/attractions\/gardens_tn.jpg": {
+		"ft": 16384,
+		"iS": 360566,
+		"oA": 0,
+		"oAP": "\/img\/attractions\/gardens_tn.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/attractions\/gateway_tn.jpg": {
+		"ft": 16384,
+		"iS": 271462,
+		"oA": 0,
+		"oAP": "\/img\/attractions\/gateway_tn.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/attractions\/Shivaji_Park_tn.jpg": {
+		"ft": 16384,
+		"iS": 203317,
+		"oA": 0,
+		"oAP": "\/img\/attractions\/Shivaji_Park_tn.jpg",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/img\/carousel\/acrilycs_workshop.jpg": {
 		"ft": 16384,

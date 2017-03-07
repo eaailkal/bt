@@ -19,6 +19,7 @@
         </section><!-- main -->
 
         <section class="sidebar col col-lg-4">
+          <?php include "_/components/php/aside-attractions.php"; ?>
           <?php include "_/components/php/aside-register.php"; ?>
           <?php include "_/components/php/aside-lastyear.php"; ?>
           <?php include "_/components/php/aside-program.php"; ?>
