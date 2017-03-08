@@ -10,10 +10,10 @@
 
 	<section class="carousel-inner">
 		<div class="active item"><img src="img/carousel/mumbai_skyline.jpg" alt="Photo of Mumbai"></div>
-		<div class="item"><img src="img/carousel/jewelry_workshop.jpg" alt="Photo of jewelry_workshop"></div>
-		<div class="item"><img src="img/carousel/painting_workshop.jpg" alt="Photo of painting_workshop"></div>
-		<div class="item"><img src="img/carousel/pottery_workshop.jpg" alt="Photo of pottery_workshop"></div>
-		<div class="item"><img src="img/carousel/quicksketch_workshop.jpg" alt="Photo of quicksketch_workshop"></div>
+		<div class="item"><img src="img/carousel/society.png" alt="Photo of society"></div>
+		<div class="item"><img src="img/carousel/jewelry_workshop.jpg" alt="Photo of painting_workshop"></div>
+		<div class="item"><img src="img/carousel/marine_drive.jpg" alt="Photo of marine drive"></div>
+		<div class="item"><img src="img/carousel/unit.jpg" alt="Photo of TYA unit"></div>
 	</section><!-- carousel-inner -->
 
 	<a href="#myCarousel" class="left carousel-control" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>

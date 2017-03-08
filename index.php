@@ -31,6 +31,7 @@
 
       </div><!-- content -->
 
+    
     <?php include "_/components/php/footer.php"; ?>
 
     </section><!-- container -->

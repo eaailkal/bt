@@ -5,5 +5,5 @@
 
   <?php include "snippet-facultyphotogrid.php"; ?>
 
-	<a href="faculty.php" class="btn btn-primary">Faculty</a>
+	<a href="faculty.php" class="btn btn-danger">Faculty</a>
 </article>

@@ -1464,6 +1464,12 @@
 		"oAP": "\/_\/components\/php\/article-registrationform2.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-socials.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-socials.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-venues.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1688,19 +1694,19 @@
 		},
 	"\/img\/artists\/Barot_Bellingham.jpg": {
 		"ft": 16384,
-		"iS": 264169,
+		"iS": 496184,
 		"oA": 0,
 		"oAP": "\/img\/artists\/Barot_Bellingham.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/artists\/Barot_Bellingham_tn.jpg": {
 		"ft": 16384,
-		"iS": 12755,
+		"iS": 496184,
 		"oA": 0,
 		"oAP": "\/img\/artists\/Barot_Bellingham_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/artists\/Constance_Smith.JPG": {
 		"ft": 16384,
@@ -1720,7 +1726,7 @@
 		},
 	"\/img\/artists\/Gerard_Donahue.jpg": {
 		"ft": 16384,
-		"iS": 137990,
+		"iS": 38339,
 		"oA": 0,
 		"oAP": "\/img\/artists\/Gerard_Donahue.jpg",
 		"oF": 0,
@@ -1732,7 +1738,7 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Gerard_Donahue_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/artists\/Hassum_Harrod.jpg": {
 		"ft": 16384,
@@ -2904,17 +2910,25 @@
 		},
 	"\/img\/carousel\/jewelry_workshop.jpg": {
 		"ft": 16384,
-		"iS": 215470,
+		"iS": 838336,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/jewelry_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/carousel\/letterpress_studio.jpg": {
 		"ft": 16384,
 		"iS": 233494,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/letterpress_studio.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/carousel\/marine_drive.jpg": {
+		"ft": 16384,
+		"iS": 202364,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/marine_drive.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -2973,6 +2987,22 @@
 		"oAP": "\/img\/carousel\/quicksketch_workshop.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/img\/carousel\/society.png": {
+		"ft": 32768,
+		"iS": 215341,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/society.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/carousel\/unit.jpg": {
+		"ft": 16384,
+		"iS": 35027,
+		"oA": 0,
+		"oAP": "\/img\/carousel\/unit.jpg",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/img\/carousel\/weaving_workshop.jpg": {
 		"ft": 16384,

@@ -1,11 +1,13 @@
-<section class="container">
+
 	<footer class="row">
 
-        <div class="col-sm-2">
-          <img src="img/misc/logo.png" class="img-responsive" alt="Logo for Tyacon 2017">
+        <div class="col-md-2">
+          <h5 style="font-weight: 800; text-align: center;">TYACON 2017</h5>
+          <!--
+          <img src="img/misc/logo.png" class="img-responsive" alt="Logo for Tyacon 2017"> -->
         </div>
         
-        <div class="col-sm-3">
+        <div class="col-md-3">
           <h5>The Conference</h5>
           <ul class="list-unstyled">
             <li><a href="#">Program</a></li>
@@ -17,7 +19,7 @@
             <li><a href="#">Brochure</a></li>
           </ul>
         </div>
-        <div class="col-sm-3">
+        <div class="col-md-3">
           <h5>General information</h5>
           <ul class="list-unstyled">
             <li><a href="#">Venue</a></li>
@@ -28,10 +30,10 @@
             <li><a href="#">Contact</a></li>
           </ul>
         </div>
-        <div class="col-sm-4">
+        <div class="col-md-4">
           <address>
             <strong>Organizing Secretary</strong>
-            Dr. Tushar Vora <br>
+            Dr. Tushar Vora <br />
             Tata Memorial Centre<br /> Dr. Ernest Borges Marg,</span><br>
             Parel, Mumbai 400012 INDIA<br>
             <abbr title="Phone">P:</abbr> +91-99204-28153<br>
@@ -46,8 +48,8 @@
 				<li><a href="sitemap.php">Site map</a></li>
 			</ul>
 		</nav> -->
+
 	</footer><!-- footer -->
-</section><!-- container -->
 
 
 

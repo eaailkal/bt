@@ -95,9 +95,16 @@ aside {
 
 .accordion-heading {
 	background: @lightPrimaryColor;
+	padding: 7px 9px;
 	a {
 		color: @primaryTextColor;
 	}
+}
+
+.accordion-group {
+    margin-bottom: 2px;
+    border: 1px solid @lightPrimaryColor;
+    border-radius: 4px;
 }
 
 .aboutthevenues {
@@ -183,25 +190,45 @@ aside {
 	}
 
 	h3 {
-		color: pink;
+		color: @primaryColor;
 	}
 }
+
+
+
+//  footer 
 
 footer {
-	ul.breadcrumb {
-		background: purple;
-		margin: 0 auto;
-		-webkit-border-radius: 0;
-		-moz-border-radius: 0;
-		border-radius: 0;
-
-		li {
-			text-shadow: none;
-			a {
-				color: white;
-			}
-		}
-	}
+  background: #eee;
+  color: #ADADAD;
+  margin-top: 2em;
 }
 
+footer a {
+  color: @secondaryTextColor;
+}
+
+footer h5 {
+  color: @primaryTextColor;
+  margin-top: 5em;
+  font-weight: bold;
+}
+
+footer address {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  color: #5A5A5A;
+}
+
+footer address strong {
+  color: @primaryColor;
+  display: block;
+  padding-bottom: 0.62em;
+}
+
+// header 
+
+#branding a:hover {
+  text-decoration: none;
+}
 
