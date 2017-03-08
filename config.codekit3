@@ -1422,6 +1422,12 @@
 		"oAP": "\/_\/components\/php\/article-contact.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/article-events.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-events.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/article-faculty-list.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1432,6 +1438,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_\/components\/php\/article-faculty.php",
+		"oF": 0
+		},
+	"\/_\/components\/php\/article-get-involved.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/article-get-involved.php",
 		"oF": 0
 		},
 	"\/_\/components\/php\/article-intro.php": {
@@ -1686,10 +1698,22 @@
 		"oAP": "\/contact.php",
 		"oF": 0
 		},
+	"\/events.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/events.php",
+		"oF": 0
+		},
 	"\/faculty.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/faculty.php",
+		"oF": 0
+		},
+	"\/getinvolved.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/getinvolved.php",
 		"oF": 0
 		},
 	"\/img\/artists\/Barot_Bellingham.jpg": {
@@ -3020,6 +3044,54 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/events\/event1.jpg": {
+		"ft": 16384,
+		"iS": 59986,
+		"oA": 0,
+		"oAP": "\/img\/events\/event1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/events\/event2.jpg": {
+		"ft": 16384,
+		"iS": 84157,
+		"oA": 0,
+		"oAP": "\/img\/events\/event2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/events\/event3.jpg": {
+		"ft": 16384,
+		"iS": 76327,
+		"oA": 0,
+		"oAP": "\/img\/events\/event3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/events\/event4.jpg": {
+		"ft": 16384,
+		"iS": 44213,
+		"oA": 0,
+		"oAP": "\/img\/events\/event4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/events\/event5.jpg": {
+		"ft": 16384,
+		"iS": 116086,
+		"oA": 0,
+		"oAP": "\/img\/events\/event5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/events\/event6.jpg": {
+		"ft": 16384,
+		"iS": 76327,
+		"oA": 0,
+		"oAP": "\/img\/events\/event6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/hotels\/gwendoline.jpg": {
 		"ft": 16384,
 		"iS": 9196,
@@ -3137,6 +3209,22 @@
 		"iS": 7063,
 		"oA": 0,
 		"oAP": "\/img\/partners\/victores-childhood-cancer.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/your_logo.gif": {
+		"ft": 4194304,
+		"iS": 7057,
+		"oA": 0,
+		"oAP": "\/img\/partners\/your_logo.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/partners\/yourlogo.gif": {
+		"ft": 4194304,
+		"iS": 2329,
+		"oA": 0,
+		"oAP": "\/img\/partners\/yourlogo.gif",
 		"oF": 0,
 		"opt": 0
 		},

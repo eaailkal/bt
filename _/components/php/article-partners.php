@@ -8,5 +8,6 @@
 		<section class="col-xs-6 col-sm-4 col-md-3"><img src="img/partners/6dlogo.gif" alt="6dlogo" /></section>
 		<section class="col-xs-6 col-sm-4 col-md-3"><img src="img/partners/c-care.gif" alt="c-care" /></section>
 		<section class="col-xs-6 col-sm-4 col-md-3"><img src="img/partners/bike.gif" alt="bike" /></section>
+		<section class="col-xs-6 col-sm-4 col-md-3"><a href="getinvolved.php"><img src="img/partners/yourlogo.gif" alt="bike" /></a></section>
 	</article>
 </article><!-- partners -->
