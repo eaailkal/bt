@@ -1506,6 +1506,12 @@
 		"oAP": "\/_\/components\/php\/aside-faculty.php",
 		"oF": 0
 		},
+	"\/_\/components\/php\/aside-instagram.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/aside-instagram.php",
+		"oF": 0
+		},
 	"\/_\/components\/php\/aside-lastyear.php": {
 		"ft": 8192,
 		"oA": 2,
