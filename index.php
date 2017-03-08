@@ -26,6 +26,7 @@
           <?php include "_/components/php/aside-dates.php"; ?>
           <?php include "_/components/php/aside-register.php"; ?>
           <?php include "_/components/php/aside-program.php"; ?>
+          <?php include "_/components/php/aside-lastyear.php"; ?>
         </section><!-- sidebar -->
 
       </div><!-- content -->

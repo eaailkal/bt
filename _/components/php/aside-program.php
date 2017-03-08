@@ -8,11 +8,11 @@
 	<section class="accordion-group">
 
 		<div class="accordion-heading">
-			<a class="accordion-toggle" data-toggle="collapse" data-parent="#schedule" href="#monday">
+			<a class="accordion-toggle" data-toggle="collapse" data-parent="#schedule" href="#saturday">
 			<span class="glyphicon glyphicon-calendar"></span> Saturday</a>
 		</div><!-- accordion heading -->
 
-		<div id="monday" class="accordion-body collapse">
+		<div id="saturday" class="accordion-body collapse">
 			<section class="accordion-inner">
 				<p>The first day of Tyacon is kicked off under the theme of How the Army treats Cancer among Soldiers. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
 
@@ -27,11 +27,11 @@
 	<section class="accordion-group">
 
 		<div class="accordion-heading">
-			<a class="accordion-toggle" data-toggle="collapse" data-parent="#schedule" href="#tuesday">
+			<a class="accordion-toggle" data-toggle="collapse" data-parent="#schedule" href="#sunday">
 			<span class="glyphicon glyphicon-calendar"></span> Sunday</a>
 		</div><!-- accordion heading -->
 
-		<div id="tuesday" class="accordion-body collapse">
+		<div id="sunday" class="accordion-body collapse">
 			<section class="accordion-inner">
 				<p>Social Media &amp; The Young Cancer Patient is the theme for the second day. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.<br>
 

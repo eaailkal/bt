@@ -1702,9 +1702,9 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/artists\/Constance_Smith.jpg": {
+	"\/img\/artists\/Constance_Smith.JPG": {
 		"ft": 16384,
-		"iS": 478316,
+		"iS": 262419,
 		"oA": 0,
 		"oAP": "\/img\/artists\/Constance_Smith.jpg",
 		"oF": 0,
@@ -1716,7 +1716,7 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Constance_Smith_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/artists\/Gerard_Donahue.jpg": {
 		"ft": 16384,
@@ -3112,11 +3112,11 @@
 		},
 	"\/img\/slides\/artist_on_table.jpg": {
 		"ft": 16384,
-		"iS": 323127,
+		"iS": 2414656,
 		"oA": 0,
 		"oAP": "\/img\/slides\/artist_on_table.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/slides\/artist_on_table_tn.jpg": {
 		"ft": 16384,
@@ -3128,7 +3128,7 @@
 		},
 	"\/img\/slides\/at_the_museum.jpg": {
 		"ft": 16384,
-		"iS": 273140,
+		"iS": 215341,
 		"oA": 0,
 		"oAP": "\/img\/slides\/at_the_museum.jpg",
 		"oF": 0,
@@ -3144,7 +3144,7 @@
 		},
 	"\/img\/slides\/charcoal_artist_painting.jpg": {
 		"ft": 16384,
-		"iS": 342749,
+		"iS": 35027,
 		"oA": 0,
 		"oAP": "\/img\/slides\/charcoal_artist_painting.jpg",
 		"oF": 0,
@@ -3160,7 +3160,7 @@
 		},
 	"\/img\/slides\/framing_workshop.jpg": {
 		"ft": 16384,
-		"iS": 222506,
+		"iS": 184307,
 		"oA": 0,
 		"oAP": "\/img\/slides\/framing_workshop.jpg",
 		"oF": 0,
@@ -3176,7 +3176,7 @@
 		},
 	"\/img\/slides\/glassmaking_workshop.jpg": {
 		"ft": 16384,
-		"iS": 196656,
+		"iS": 244937,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassmaking_workshop.jpg",
 		"oF": 0,
@@ -3192,11 +3192,11 @@
 		},
 	"\/img\/slides\/glassworking_workshop.jpg": {
 		"ft": 16384,
-		"iS": 161588,
+		"iS": 838336,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassworking_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/slides\/glassworking_workshop_tn.jpg": {
 		"ft": 16384,

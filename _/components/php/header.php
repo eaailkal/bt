@@ -1,5 +1,4 @@
-<div class="content row">
-	<div class="col-lg-12">
+
 		<header class="clearfix">
 			<section id="branding">
 				<a href="index.php"><img src="img/misc/logo.png" alt="Logo for Tyacon 2017"></a>
@@ -17,7 +16,7 @@
 					    <li><a tabindex="-1" href="#">Terms and Conditions</a></li>
 					    <li class="divider"></li>
 					    <li><a tabindex="-1" href="#">Organizing commitee</a></li>
-					    <li><a tabindex="-1" href="#">Faculty</a></li>
+					    <li><a tabindex="-1" href="faculty.php">Faculty</a></li>
                       	<li><a tabindex="-1" href="#">Brochure</a></li>
 					</ul>
 				</li><!-- drop down menu -->
@@ -38,5 +37,3 @@
 
 
 		</header><!-- header -->
-	</div><!-- column -->
-</div><!-- content -->
