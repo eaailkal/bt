@@ -78,6 +78,10 @@ aside {
 	border-radius: 0;
 }
 
+.navbar-default .navbar-nav>.active>a {
+		font-weight: bold;
+}
+
 #branding {
 	img {
 		margin: 10px 0 5px 25px;
@@ -115,3 +119,89 @@ aside {
 		font-size: 1.5em;
 	}
 }
+
+
+.nav-tabs {
+	li a {
+		color: @primaryColor;
+	}
+
+	li.active a {
+		background: @textPrimaryColor;
+		font-weight: bold;
+	}
+
+	li a:hover {
+		background: @accentColor;
+		color: white;
+	}
+}
+
+.nav-tabs li.active {
+	a {
+		color: @primaryColor;
+		font-weight: bold;
+	}
+}
+
+.tab-content {
+	h3, h4 {
+		margin: 0;
+		padding: 0;
+	}
+
+	h3 {
+		color: @primaryColor;
+		line-height: 1em
+	}
+
+	p {
+		padding: 0;
+		padding-top: 10px;
+	}
+}
+
+.photogrid img {
+	width: 96px;
+	margin: 0 5px 5px 0;
+	cursor: pointer;
+
+	@media (max-width: 990px) {
+		width: 64px;
+	}
+}
+
+.artistinfo {
+	article, p, h1 {
+		padding: 0 2%
+	}
+
+	.photogrid img {
+		width: 72px;
+		margin: 0 5px 5px 0;
+		cursor: pointer;
+	}
+
+	h3 {
+		color: pink;
+	}
+}
+
+footer {
+	ul.breadcrumb {
+		background: purple;
+		margin: 0 auto;
+		-webkit-border-radius: 0;
+		-moz-border-radius: 0;
+		border-radius: 0;
+
+		li {
+			text-shadow: none;
+			a {
+				color: white;
+			}
+		}
+	}
+}
+
+
