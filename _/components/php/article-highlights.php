@@ -7,14 +7,14 @@
 	    <a href="#">
         <div class="fix">
           <img class="img-responsive" src="img/highlights/cancer.jpg" alt="Registration">
-        <div class="overlay_general"><h3>Common teenage cancers</h3></div></div></a>
+        <div class="overlay_general"><h4>Common teenage cancers</h4></div></div></a>
       </div>
 
       <div class="col-xs-6 col-sm-4 wrapper">
     <a href="#">
 <div class="fix">
         <img src="img/highlights/society.png" class="img-responsive" alt="Abstract" />
-        <div class="overlay_general"><h3>Society acceptance</h3></div></div>
+        <div class="overlay_general"><h4>Society acceptance</h4></div></div>
     </a>
 </div>
 
@@ -22,7 +22,7 @@
     <a href="#">
 <div class="fix">
         <img src="img/highlights/unit2.jpg" class="img-responsive" alt="Program" />
-        <div class="overlay_general"><h3>Roadmap to the TYA cancer unitis</h3></div></div>
+        <div class="overlay_general"><h4>Roadmap to the TYA cancer unitis</h4></div></div>
     </a>
 </div>
 	    </div>
