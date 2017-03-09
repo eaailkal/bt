@@ -21,6 +21,8 @@ $(function() {
 	$("#registration a:contains('Registration')").parent().addClass('active');
 	$("#program a:contains('Program')").parent().addClass('active');
 	$("#venue a:contains('Venue')").parent().addClass('active');
+	$("#events a:contains('Events')").parent().addClass('active');
+	$("#getinvolved a:contains('Get involved')").parent().addClass('active');
 	$("#contact a:contains('Contact')").parent().addClass('active');
 
 	//make menus drop automatically

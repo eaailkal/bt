@@ -5,6 +5,13 @@
 			</section><!-- branding -->
 
 			<section class="navbar navbar-default">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar-content">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="mynavbar-content">
 			<ul class="nav navbar-nav">
 			<li><a href="index.php">Home</a></li>
 				<!-- drop down menu -->
@@ -26,6 +33,7 @@
             <li><a href="getinvolved.php">Get involved</a></li>
             <li><a href="contact.php">Contact</a></li>
 			</ul>
+			</div>
 			</section><!-- navbar -->
 
 			<!-- Modal -->

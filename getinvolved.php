@@ -9,7 +9,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
   </head>
-  <body id="contact">
+  <body id="getinvolved">
 
     <section class="container">
       <div class="content row">
