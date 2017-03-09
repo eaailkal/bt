@@ -17,6 +17,7 @@
       <?php include "_/components/php/snippet-carousel.php"; ?>
         <section class="main col col-md-8">
           <?php include "_/components/php/article-intro.php"; ?>
+          <?php include "_/components/php/article-highlights.php"; ?>
           <?php include "_/components/php/article-faculty.php"; ?>
           <?php include "_/components/php/article-aboutthevenue.php"; ?>
           <?php include "_/components/php/article-partners.php"; ?>
