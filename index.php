@@ -40,5 +40,25 @@
 
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
+    <script>
+
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId: "267004333336058",
+        xfbml: true,
+        version: "v2.6"
+      });
+
+    };
+
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) { return; }
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+  </script>
   </body>
 </html>
