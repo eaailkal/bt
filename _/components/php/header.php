@@ -1,7 +1,9 @@
 
 		<header class="clearfix">
 			<section id="branding">
-				<a href="index.php"><h1 style="color: #F44336; font-weight: 800; text-decoration: none;">TYACON 2017</h1><!-- <img src="img/misc/logo.png" alt="Logo for Tyacon 2017"> --></a>
+				<a href="index.php">
+				<img src="img/misc/logo.png" class="img-responsive" style="width: 10%;" alt="Logo for Tyacon 2017">
+				</a>
 			</section><!-- branding -->
 
 			<section class="navbar navbar-default">

@@ -7,7 +7,7 @@
 		"uuidString": "73A08601-3FCC-4C18-81A9-C410EDCEACB9"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/_\/components\/js\/.jscsrc": {
 		"ft": 8192,
@@ -1734,7 +1734,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Barot_Bellingham.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/artists\/Barot_Bellingham_tn.jpg": {
 		"ft": 16384,
@@ -1742,7 +1743,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Barot_Bellingham_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/artists\/Constance_Smith.jpg": {
 		"ft": 16384,
@@ -1750,7 +1752,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Constance_Smith.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Constance_Smith_tn.jpg": {
 		"ft": 16384,
@@ -1758,7 +1761,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Constance_Smith_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/artists\/Gerard_Donahue.jpg": {
 		"ft": 16384,
@@ -1766,7 +1770,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Gerard_Donahue.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Gerard_Donahue_tn.jpg": {
 		"ft": 16384,
@@ -1774,7 +1779,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Gerard_Donahue_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/artists\/Hassum_Harrod.jpg": {
 		"ft": 16384,
@@ -1782,7 +1788,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Hassum_Harrod.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Hassum_Harrod_tn.jpg": {
 		"ft": 16384,
@@ -1790,7 +1797,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Hassum_Harrod_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Hillary_Goldwynn.jpg": {
 		"ft": 16384,
@@ -1798,7 +1806,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Hillary_Goldwynn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Hillary_Goldwynn_tn.jpg": {
 		"ft": 16384,
@@ -1806,7 +1815,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Hillary_Goldwynn_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Jennifer_Jerome.jpg": {
 		"ft": 16384,
@@ -1814,7 +1824,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Jennifer_Jerome.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Jennifer_Jerome_tn.jpg": {
 		"ft": 16384,
@@ -1822,7 +1833,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Jennifer_Jerome_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Jonathan_Ferrar.jpg": {
 		"ft": 16384,
@@ -1830,7 +1842,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Jonathan_Ferrar.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Jonathan_Ferrar_tn.jpg": {
 		"ft": 16384,
@@ -1838,7 +1851,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Jonathan_Ferrar_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/LaVonne_LaRue.jpg": {
 		"ft": 16384,
@@ -1846,7 +1860,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/LaVonne_LaRue.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/LaVonne_LaRue_tn.jpg": {
 		"ft": 16384,
@@ -1854,7 +1869,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/LaVonne_LaRue_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Lorenzo_Garcia.jpg": {
 		"ft": 16384,
@@ -1862,7 +1878,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Lorenzo_Garcia.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Lorenzo_Garcia_tn.jpg": {
 		"ft": 16384,
@@ -1870,7 +1887,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Lorenzo_Garcia_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Richard_Tweed.jpg": {
 		"ft": 16384,
@@ -1878,7 +1896,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Richard_Tweed.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Richard_Tweed_tn.jpg": {
 		"ft": 16384,
@@ -1886,7 +1905,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Richard_Tweed_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Riley_Rewington.jpg": {
 		"ft": 16384,
@@ -1894,7 +1914,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Riley_Rewington.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Riley_Rewington_tn.jpg": {
 		"ft": 16384,
@@ -1902,7 +1923,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Riley_Rewington_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/artists\/Xhou_Ta.jpg": {
 		"ft": 16384,
@@ -1910,7 +1932,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Xhou_Ta.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artists\/Xhou_Ta_tn.jpg": {
 		"ft": 16384,
@@ -1918,7 +1941,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artists\/Xhou_Ta_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_01.jpg": {
 		"ft": 16384,
@@ -1926,7 +1950,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_01_tn.jpg": {
 		"ft": 16384,
@@ -1934,7 +1959,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_02.jpg": {
 		"ft": 16384,
@@ -1942,7 +1968,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_02_tn.jpg": {
 		"ft": 16384,
@@ -1950,7 +1977,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_03.jpg": {
 		"ft": 16384,
@@ -1958,7 +1986,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_03_tn.jpg": {
 		"ft": 16384,
@@ -1966,7 +1995,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_04.jpg": {
 		"ft": 16384,
@@ -1974,7 +2004,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_04_tn.jpg": {
 		"ft": 16384,
@@ -1982,7 +2013,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_05.jpg": {
 		"ft": 16384,
@@ -1990,7 +2022,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_05_tn.jpg": {
 		"ft": 16384,
@@ -1998,7 +2031,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_06.jpg": {
 		"ft": 16384,
@@ -2006,7 +2040,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_06.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_06_tn.jpg": {
 		"ft": 16384,
@@ -2014,7 +2049,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_06_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_07.jpg": {
 		"ft": 16384,
@@ -2022,7 +2058,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_07.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Barot_Bellingham_07_tn.jpg": {
 		"ft": 16384,
@@ -2030,7 +2067,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Barot_Bellingham_07_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_01.jpg": {
 		"ft": 16384,
@@ -2038,7 +2076,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_01_tn.jpg": {
 		"ft": 16384,
@@ -2046,7 +2085,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_02.jpg": {
 		"ft": 16384,
@@ -2054,7 +2094,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_02_tn.jpg": {
 		"ft": 16384,
@@ -2062,7 +2103,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_03.jpg": {
 		"ft": 16384,
@@ -2070,7 +2112,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_03_tn.jpg": {
 		"ft": 16384,
@@ -2078,7 +2121,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_04.jpg": {
 		"ft": 16384,
@@ -2086,7 +2130,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_04_tn.jpg": {
 		"ft": 16384,
@@ -2094,7 +2139,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_05.jpg": {
 		"ft": 16384,
@@ -2102,7 +2148,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Constance_Smith_05_tn.jpg": {
 		"ft": 16384,
@@ -2110,7 +2157,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Constance_Smith_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_01.jpg": {
 		"ft": 16384,
@@ -2118,7 +2166,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_01_tn.jpg": {
 		"ft": 16384,
@@ -2126,7 +2175,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_02.jpg": {
 		"ft": 16384,
@@ -2134,7 +2184,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_02_tn.jpg": {
 		"ft": 16384,
@@ -2142,7 +2193,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_03.jpg": {
 		"ft": 16384,
@@ -2150,7 +2202,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_03_tn.jpg": {
 		"ft": 16384,
@@ -2158,7 +2211,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_04.jpg": {
 		"ft": 16384,
@@ -2166,7 +2220,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Gerard_Donahue_04_tn.jpg": {
 		"ft": 16384,
@@ -2174,7 +2229,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Gerard_Donahue_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_01.jpg": {
 		"ft": 16384,
@@ -2182,7 +2238,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_01_tn.jpg": {
 		"ft": 16384,
@@ -2190,7 +2247,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_02.jpg": {
 		"ft": 16384,
@@ -2198,7 +2256,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_02_tn.jpg": {
 		"ft": 16384,
@@ -2206,7 +2265,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_03.jpg": {
 		"ft": 16384,
@@ -2214,7 +2274,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_03_tn.jpg": {
 		"ft": 16384,
@@ -2222,7 +2283,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_04.jpg": {
 		"ft": 16384,
@@ -2230,7 +2292,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_04_tn.jpg": {
 		"ft": 16384,
@@ -2238,7 +2301,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_05.jpg": {
 		"ft": 16384,
@@ -2246,7 +2310,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_05_tn.jpg": {
 		"ft": 16384,
@@ -2254,7 +2319,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_06.jpg": {
 		"ft": 16384,
@@ -2262,7 +2328,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_06.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hassum_Harrod_06_tn.jpg": {
 		"ft": 16384,
@@ -2270,7 +2337,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hassum_Harrod_06_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_01.jpg": {
 		"ft": 16384,
@@ -2278,7 +2346,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_01_tn.jpg": {
 		"ft": 16384,
@@ -2286,7 +2355,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_02.jpg": {
 		"ft": 16384,
@@ -2294,7 +2364,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_02_tn.jpg": {
 		"ft": 16384,
@@ -2302,7 +2373,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_03.jpg": {
 		"ft": 16384,
@@ -2310,7 +2382,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_03_tn.jpg": {
 		"ft": 16384,
@@ -2318,7 +2391,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_04.jpg": {
 		"ft": 16384,
@@ -2326,7 +2400,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_04_tn.jpg": {
 		"ft": 16384,
@@ -2334,7 +2409,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_05.jpg": {
 		"ft": 16384,
@@ -2342,7 +2418,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_05_tn.jpg": {
 		"ft": 16384,
@@ -2350,7 +2427,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_06.jpg": {
 		"ft": 16384,
@@ -2358,7 +2436,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_06.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_06_tn.jpg": {
 		"ft": 16384,
@@ -2366,7 +2445,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_06_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_07.jpg": {
 		"ft": 16384,
@@ -2374,7 +2454,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_07.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Hillary_Goldwynn_07_tn.jpg": {
 		"ft": 16384,
@@ -2382,7 +2463,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Hillary_Goldwynn_07_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_01.jpg": {
 		"ft": 16384,
@@ -2390,7 +2472,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_01_tn.jpg": {
 		"ft": 16384,
@@ -2398,7 +2481,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_02.jpg": {
 		"ft": 16384,
@@ -2406,7 +2490,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_02_tn.jpg": {
 		"ft": 16384,
@@ -2414,7 +2499,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_03.jpg": {
 		"ft": 16384,
@@ -2422,7 +2508,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_03_tn.jpg": {
 		"ft": 16384,
@@ -2430,7 +2517,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_04.jpg": {
 		"ft": 16384,
@@ -2438,7 +2526,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jennifer_Jerome_04_tn.jpg": {
 		"ft": 16384,
@@ -2446,7 +2535,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jennifer_Jerome_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jonathan_Ferrar_01.jpg": {
 		"ft": 16384,
@@ -2454,7 +2544,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jonathan_Ferrar_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jonathan_Ferrar_01_tn.jpg": {
 		"ft": 16384,
@@ -2462,7 +2553,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jonathan_Ferrar_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jonathan_Ferrar_02.jpg": {
 		"ft": 16384,
@@ -2470,7 +2562,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jonathan_Ferrar_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jonathan_Ferrar_02_tn.jpg": {
 		"ft": 16384,
@@ -2478,7 +2571,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jonathan_Ferrar_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jonathan_Ferrar_03.jpg": {
 		"ft": 16384,
@@ -2486,7 +2580,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jonathan_Ferrar_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Jonathan_Ferrar_03_tn.jpg": {
 		"ft": 16384,
@@ -2494,7 +2589,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Jonathan_Ferrar_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_01.jpg": {
 		"ft": 16384,
@@ -2502,7 +2598,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_01_tn.jpg": {
 		"ft": 16384,
@@ -2510,7 +2607,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_02.jpg": {
 		"ft": 16384,
@@ -2518,7 +2616,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_02_tn.jpg": {
 		"ft": 16384,
@@ -2526,7 +2625,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_03.jpg": {
 		"ft": 16384,
@@ -2534,7 +2634,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_03_tn.jpg": {
 		"ft": 16384,
@@ -2542,7 +2643,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_04.jpg": {
 		"ft": 16384,
@@ -2550,7 +2652,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_04_tn.jpg": {
 		"ft": 16384,
@@ -2558,7 +2661,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_05.jpg": {
 		"ft": 16384,
@@ -2566,7 +2670,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/LaVonne_LaRue_05_tn.jpg": {
 		"ft": 16384,
@@ -2574,7 +2679,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/LaVonne_LaRue_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_01.jpg": {
 		"ft": 16384,
@@ -2582,7 +2688,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_01_tn.jpg": {
 		"ft": 16384,
@@ -2590,7 +2697,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_02.jpg": {
 		"ft": 16384,
@@ -2598,7 +2706,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_02_tn.jpg": {
 		"ft": 16384,
@@ -2606,7 +2715,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_03.jpg": {
 		"ft": 16384,
@@ -2614,7 +2724,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_03_tn.jpg": {
 		"ft": 16384,
@@ -2622,7 +2733,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_04.jpg": {
 		"ft": 16384,
@@ -2630,7 +2742,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Lorenzo_Garcia_04_tn.jpg": {
 		"ft": 16384,
@@ -2638,7 +2751,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Lorenzo_Garcia_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_01.jpg": {
 		"ft": 16384,
@@ -2646,7 +2760,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_01_tn.jpg": {
 		"ft": 16384,
@@ -2654,7 +2769,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_02.jpg": {
 		"ft": 16384,
@@ -2662,7 +2778,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_02_tn.jpg": {
 		"ft": 16384,
@@ -2670,7 +2787,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_03.jpg": {
 		"ft": 16384,
@@ -2678,7 +2796,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_03_tn.jpg": {
 		"ft": 16384,
@@ -2686,7 +2805,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_04.jpg": {
 		"ft": 16384,
@@ -2694,7 +2814,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_04_tn.jpg": {
 		"ft": 16384,
@@ -2702,7 +2823,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_05.jpg": {
 		"ft": 16384,
@@ -2710,7 +2832,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_05_tn.jpg": {
 		"ft": 16384,
@@ -2718,7 +2841,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_06.jpg": {
 		"ft": 16384,
@@ -2726,7 +2850,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_06.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Richard_Tweed_06_tn.jpg": {
 		"ft": 16384,
@@ -2734,7 +2859,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Richard_Tweed_06_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_01.jpg": {
 		"ft": 16384,
@@ -2742,7 +2868,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_01_tn.jpg": {
 		"ft": 16384,
@@ -2750,7 +2877,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_02.jpg": {
 		"ft": 16384,
@@ -2758,7 +2886,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_02_tn.jpg": {
 		"ft": 16384,
@@ -2766,7 +2895,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_03.jpg": {
 		"ft": 16384,
@@ -2774,7 +2904,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_03_tn.jpg": {
 		"ft": 16384,
@@ -2782,7 +2913,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_04.jpg": {
 		"ft": 16384,
@@ -2790,7 +2922,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_04_tn.jpg": {
 		"ft": 16384,
@@ -2798,7 +2931,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_05.jpg": {
 		"ft": 16384,
@@ -2806,7 +2940,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_05.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_05_tn.jpg": {
 		"ft": 16384,
@@ -2814,7 +2949,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_05_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_06.jpg": {
 		"ft": 16384,
@@ -2822,7 +2958,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_06.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Riley_Rewington_06_tn.jpg": {
 		"ft": 16384,
@@ -2830,7 +2967,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Riley_Rewington_06_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_01.jpg": {
 		"ft": 16384,
@@ -2838,7 +2976,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_01_tn.jpg": {
 		"ft": 16384,
@@ -2846,7 +2985,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_01_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_02.jpg": {
 		"ft": 16384,
@@ -2854,7 +2994,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_02_tn.jpg": {
 		"ft": 16384,
@@ -2862,7 +3003,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_02_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_03.jpg": {
 		"ft": 16384,
@@ -2870,7 +3012,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_03_tn.jpg": {
 		"ft": 16384,
@@ -2878,7 +3021,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_03_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_04.jpg": {
 		"ft": 16384,
@@ -2886,7 +3030,8 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_04.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/artwork\/Xhou_Ta_04_tn.jpg": {
 		"ft": 16384,
@@ -2894,39 +3039,44 @@
 		"oA": 0,
 		"oAP": "\/img\/artwork\/Xhou_Ta_04_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/attractions\/court_tn.jpg": {
 		"ft": 16384,
-		"iS": 313887,
+		"iS": 18564,
 		"oA": 0,
 		"oAP": "\/img\/attractions\/court_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/attractions\/gardens_tn.jpg": {
 		"ft": 16384,
-		"iS": 360566,
+		"iS": 17035,
 		"oA": 0,
 		"oAP": "\/img\/attractions\/gardens_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/attractions\/gateway_tn.jpg": {
 		"ft": 16384,
-		"iS": 271462,
+		"iS": 16158,
 		"oA": 0,
 		"oAP": "\/img\/attractions\/gateway_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/attractions\/Shivaji_Park_tn.jpg": {
 		"ft": 16384,
-		"iS": 203317,
+		"iS": 14984,
 		"oA": 0,
 		"oAP": "\/img\/attractions\/Shivaji_Park_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/acrilycs_workshop.jpg": {
 		"ft": 16384,
@@ -2934,7 +3084,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/acrilycs_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/interior_decor_workshop.jpg": {
 		"ft": 16384,
@@ -2942,15 +3093,17 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/interior_decor_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/jewelry_workshop.jpg": {
 		"ft": 16384,
-		"iS": 838336,
+		"iS": 210373,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/jewelry_workshop.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/letterpress_studio.jpg": {
 		"ft": 16384,
@@ -2958,7 +3111,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/letterpress_studio.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/marine_drive.jpg": {
 		"ft": 16384,
@@ -2966,7 +3120,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/marine_drive.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/metal_engraving_workshop.jpg": {
 		"ft": 16384,
@@ -2974,15 +3129,17 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/metal_engraving_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/mumbai_skyline.jpg": {
 		"ft": 16384,
-		"iS": 192119,
+		"iS": 289675,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/mumbai_skyline.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/painting_workshop.jpg": {
 		"ft": 16384,
@@ -2990,7 +3147,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/painting_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/pencil_sketching_workshop.jpg": {
 		"ft": 16384,
@@ -2998,7 +3156,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/pencil_sketching_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/pottery_finished.jpg": {
 		"ft": 16384,
@@ -3006,7 +3165,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/pottery_finished.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/pottery_workshop.jpg": {
 		"ft": 16384,
@@ -3014,7 +3174,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/pottery_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/quicksketch_workshop.jpg": {
 		"ft": 16384,
@@ -3022,23 +3183,27 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/quicksketch_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/society.png": {
 		"ft": 32768,
-		"iS": 215341,
+		"iS": 854666,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/society.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/unit.jpg": {
 		"ft": 16384,
-		"iS": 35027,
+		"iS": 158508,
 		"oA": 0,
 		"oAP": "\/img\/carousel\/unit.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/weaving_workshop.jpg": {
 		"ft": 16384,
@@ -3046,7 +3211,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/weaving_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/carousel\/woodworking_workshop.jpg": {
 		"ft": 16384,
@@ -3054,7 +3220,8 @@
 		"oA": 0,
 		"oAP": "\/img\/carousel\/woodworking_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/events\/event1.jpg": {
 		"ft": 16384,
@@ -3062,7 +3229,8 @@
 		"oA": 0,
 		"oAP": "\/img\/events\/event1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/events\/event2.jpg": {
 		"ft": 16384,
@@ -3070,7 +3238,8 @@
 		"oA": 0,
 		"oAP": "\/img\/events\/event2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/events\/event3.jpg": {
 		"ft": 16384,
@@ -3078,7 +3247,8 @@
 		"oA": 0,
 		"oAP": "\/img\/events\/event3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/events\/event4.jpg": {
 		"ft": 16384,
@@ -3086,7 +3256,8 @@
 		"oA": 0,
 		"oAP": "\/img\/events\/event4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/events\/event5.jpg": {
 		"ft": 16384,
@@ -3094,7 +3265,8 @@
 		"oA": 0,
 		"oAP": "\/img\/events\/event5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/events\/event6.jpg": {
 		"ft": 16384,
@@ -3102,7 +3274,8 @@
 		"oA": 0,
 		"oAP": "\/img\/events\/event6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/highlights\/cancer.jpg": {
 		"ft": 16384,
@@ -3110,15 +3283,18 @@
 		"oA": 0,
 		"oAP": "\/img\/highlights\/cancer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/highlights\/society.png": {
 		"ft": 32768,
 		"iS": 215341,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/highlights\/society.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/highlights\/unit.jpg": {
 		"ft": 16384,
@@ -3126,7 +3302,8 @@
 		"oA": 0,
 		"oAP": "\/img\/highlights\/unit.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/highlights\/unit2.jpg": {
 		"ft": 16384,
@@ -3134,7 +3311,8 @@
 		"oA": 0,
 		"oAP": "\/img\/highlights\/unit2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/hotels\/gwendoline.jpg": {
 		"ft": 16384,
@@ -3142,7 +3320,8 @@
 		"oA": 0,
 		"oAP": "\/img\/hotels\/gwendoline.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/hotels\/otter.jpg": {
 		"ft": 16384,
@@ -3150,7 +3329,8 @@
 		"oA": 0,
 		"oAP": "\/img\/hotels\/otter.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/hotels\/phillips.jpg": {
 		"ft": 16384,
@@ -3158,7 +3338,8 @@
 		"oA": 0,
 		"oAP": "\/img\/hotels\/phillips.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/hotels\/rage.jpg": {
 		"ft": 16384,
@@ -3166,39 +3347,37 @@
 		"oA": 0,
 		"oAP": "\/img\/hotels\/rage.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/hotels\/tata.jpg": {
 		"ft": 16384,
-		"iS": 558412,
+		"iS": 85315,
 		"oA": 0,
 		"oAP": "\/img\/hotels\/tata.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
-	"\/img\/misc\/background_buildings.png": {
+	"\/img\/misc\/logo-white.png": {
 		"ft": 32768,
-		"iS": 25269,
+		"iS": 2022,
+		"l": 1,
 		"oA": 0,
-		"oAP": "\/img\/misc\/background_buildings.png",
+		"oAP": "\/img\/misc\/logo-white.png",
 		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/misc\/iphone_roux.png": {
-		"ft": 32768,
-		"iS": 168038,
-		"oA": 0,
-		"oAP": "\/img\/misc\/iphone_roux.png",
-		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/misc\/logo.png": {
 		"ft": 32768,
-		"iS": 17092,
+		"iS": 6935,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/misc\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/partners\/6dlogo.gif": {
 		"ft": 4194304,
@@ -3258,7 +3437,7 @@
 		},
 	"\/img\/partners\/your_logo.gif": {
 		"ft": 4194304,
-		"iS": 7057,
+		"iS": 6749,
 		"oA": 0,
 		"oAP": "\/img\/partners\/your_logo.gif",
 		"oF": 0,
@@ -3274,19 +3453,21 @@
 		},
 	"\/img\/slides\/artist_on_table.jpg": {
 		"ft": 16384,
-		"iS": 2414656,
+		"iS": 223526,
 		"oA": 0,
 		"oAP": "\/img\/slides\/artist_on_table.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/artist_on_table_tn.jpg": {
 		"ft": 16384,
-		"iS": 87232,
+		"iS": 17299,
 		"oA": 0,
 		"oAP": "\/img\/slides\/artist_on_table_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/at_the_museum.jpg": {
 		"ft": 16384,
@@ -3294,7 +3475,8 @@
 		"oA": 0,
 		"oAP": "\/img\/slides\/at_the_museum.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/at_the_museum_tn.jpg": {
 		"ft": 16384,
@@ -3302,7 +3484,8 @@
 		"oA": 0,
 		"oAP": "\/img\/slides\/at_the_museum_tn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/charcoal_artist_painting.jpg": {
 		"ft": 16384,
@@ -3310,15 +3493,17 @@
 		"oA": 0,
 		"oAP": "\/img\/slides\/charcoal_artist_painting.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/charcoal_artist_painting_tn.jpg": {
 		"ft": 16384,
-		"iS": 35027,
+		"iS": 14451,
 		"oA": 0,
 		"oAP": "\/img\/slides\/charcoal_artist_painting_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/framing_workshop.jpg": {
 		"ft": 16384,
@@ -3326,15 +3511,17 @@
 		"oA": 0,
 		"oAP": "\/img\/slides\/framing_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/framing_workshop_tn.jpg": {
 		"ft": 16384,
-		"iS": 147645,
+		"iS": 24689,
 		"oA": 0,
 		"oAP": "\/img\/slides\/framing_workshop_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/glassmaking_workshop.jpg": {
 		"ft": 16384,
@@ -3342,31 +3529,35 @@
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassmaking_workshop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/glassmaking_workshop_tn.jpg": {
 		"ft": 16384,
-		"iS": 244937,
+		"iS": 31221,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassmaking_workshop_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/glassworking_workshop.jpg": {
 		"ft": 16384,
-		"iS": 838336,
+		"iS": 358432,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassworking_workshop.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slides\/glassworking_workshop_tn.jpg": {
 		"ft": 16384,
-		"iS": 838336,
+		"iS": 19439,
 		"oA": 0,
 		"oAP": "\/img\/slides\/glassworking_workshop_tn.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0,
+		"q": 100
 		},
 	"\/index.php": {
 		"ft": 8192,
@@ -4079,6 +4270,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -4558,6 +4753,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -5158,7 +5357,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -5251,7 +5451,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,

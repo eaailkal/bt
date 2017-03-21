@@ -1,13 +1,11 @@
 
 	<footer class="row">
 
-        <div class="col-md-2">
-          <h5 style="font-weight: 800; text-align: center;">TYACON 2017</h5>
-          <!--
-          <img src="img/misc/logo.png" class="img-responsive" alt="Logo for Tyacon 2017"> -->
+        <div class="col-xs-6 col-md-3 text-center">
+          <img src="img/misc/logo-white.png" class="img-responsive" style="margin-top: 5em; width: 50%; align" alt="Logo for Tyacon 2017">
         </div>
         
-        <div class="col-md-3">
+        <div class="col-xs-6 col-md-3">
           <h5>The Conference</h5>
           <ul class="list-unstyled">
             <li><a href="#">Program</a></li>
@@ -19,7 +17,7 @@
             <li><a href="#">Brochure</a></li>
           </ul>
         </div>
-        <div class="col-md-3">
+        <div class="col-xs-6 col-md-3">
           <h5>General information</h5>
           <ul class="list-unstyled">
             <li><a href="#">Venue</a></li>
@@ -30,7 +28,7 @@
             <li><a href="#">Contact</a></li>
           </ul>
         </div>
-        <div class="col-md-4">
+        <div class="col-xs-6 col-md-3">
           <address>
             <strong>Organizing Secretary</strong>
             Dr. Tushar Vora <br />
